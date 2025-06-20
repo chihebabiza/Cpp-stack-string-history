@@ -18,5 +18,13 @@
     <ClCompile Include="String-history.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="clsMyString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsMyString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
